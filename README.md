@@ -2,6 +2,8 @@
 
 Simple async task orchestration for DeadZone plugins with gametick-safe API calls.
 
+The plugin is free to use, no fees or charges. But I do expect credit and a link to this repo in your public packages if you used this to create it.
+Also let me know what you create (public or private!) using this framework!
 ## Usage
 
 ```javascript
